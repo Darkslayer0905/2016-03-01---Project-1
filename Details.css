@@ -44,6 +44,7 @@ img{
     margin-right: 120px;
     margin-left: 10px;
     display: inline-block;
+    vertical-align: middle;
 }
 
 
@@ -121,8 +122,4 @@ p.Kyle{
  margin-left: 80px;
  margin-bottom: 100px;
  vertical-align: top;
-}
-
-.Partner{
-  vertical-align: middle;
 }
