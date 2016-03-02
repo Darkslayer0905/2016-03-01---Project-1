@@ -9,7 +9,7 @@ body {
 .Site{
     font-family:FGB, sans-serif ;
     font-size: 40px;
-    color: @super-color;
+    color:  #0f0f99;
     border-color: #fff;
     background-color: #292E37;
 }
@@ -29,8 +29,8 @@ img{
     max-width: 200px;
     min-width: 150px;
     padding:5px;
-    border:2px solid @super-color;
-    background-color: @gunmetal;
+    border:2px solid  #0f0f99;
+    background-color: #292E37;
     margin-top: 100px;
     margin-bottom: 10px;
     margin-right: 150px;
@@ -49,35 +49,35 @@ img{
 
 
 p{
-  color: @super-color;
-  background-color: @gunmetal;
+  color:  #0f0f99;
+  background-color: #292E37;
   border-left:3px;
   Font-size: 20px;
   width: 70%;
   margin-left: 100;
   padding:5px;
-  border:2px solid @super-color;
-  background-color: @gunmetal;
+  border:2px solid  #0f0f99;
+  background-color: #292E37;
 }
 
 p.Kyle{
-  color: @super-color;
-  background-color: @gunmetal;
+  color:  #0f0f99;
+  background-color: #292E37;
   Font-size: 20px;
   width: 70%;
   max-width: 1000px;
   min-width: 500px;
   margin-left: 100;
    padding:5px;
-   border:2px solid @super-color;
-   background-color: @gunmetal;
+   border:2px solid  #0f0f99;
+   background-color: #292E37;
    display: inline-block;
 }
 
 .Name{
      font-family:FGB, sans-serif ;
     font-size: 40px;
-    color: @super-color;
+    color:  #0f0f99;
     border-color: #fff;
     background-color: #292E37;
     margin-left: 80px;
@@ -91,7 +91,7 @@ p.Kyle{
   min-width: 100px;
   padding:0px;
   border: 0px;
-  background-color: @gunmetal;
+  background-color: #292E37;
   margin-top: 0px;
   margin-bottom: 0px;
   margin-right: 0px;
