@@ -1,0 +1,62 @@
+@super-color: #0f0f99;
+@gunmetal: #292E37;
+
+
+body {
+  background-color: black;
+}
+
+.Site{
+    font-family:FGB, sans-serif ;
+    font-size: 40px;
+    color: @super-color;
+    border-color: #fff;
+    background-color: #292E37;
+}
+
+button:hover {
+  color: black;
+  background-color: blue;
+}
+
+button:active {
+    color: yellow;
+  background-color: red;
+}
+
+
+img{
+    max-width: 200px;
+    min-width: 150px;
+    padding:5px;
+    border:2px solid @super-color;
+    background-color: @gunmetal;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+p{
+  color: @super-color;
+  background-color: @gunmetal;
+  border-left:3px;
+  Font-size: 20px;
+  width: 70%;
+  max-width: 1000px;
+  min-width: 500px;
+  margin-left: 100;
+   padding:5px;
+   border:2px solid @super-color;
+   background-color: @gunmetal;
+}
+
+.Name{
+     font-family:FGB, sans-serif ;
+    font-size: 40px;
+    color: @super-color;
+    border-color: #fff;
+    background-color: #292E37;
+    margin-left: 80px;
+    margin-bottom: 100px;
+}
