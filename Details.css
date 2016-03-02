@@ -103,3 +103,10 @@ p.Kyle{
   max-width: 900px;
   min-width: 800px;
 }
+
+.Ship{
+  max-height: 650px;
+  min-height: 500px;
+  max-width: 600px;
+  min-width: 500px;
+}
