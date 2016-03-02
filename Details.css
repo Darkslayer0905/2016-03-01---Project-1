@@ -112,6 +112,13 @@ p.Kyle{
   min-width: 800px;
 }
 
-.Name.Associates{
-  vertical-align: top;
+.Associates{
+  font-family:FGB, sans-serif ;
+ font-size: 40px;
+ color:  #ffcc00;
+ border-color: #fff;
+ background-color: #292E37;
+ margin-left: 80px;
+ margin-bottom: 100px;
+ vertical-align: top;
 }
