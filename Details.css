@@ -1,5 +1,4 @@
-@super-color: #0f0f99;
-@gunmetal: #292E37;
+
 
 
 body {
@@ -9,7 +8,7 @@ body {
 .Site{
     font-family:FGB, sans-serif ;
     font-size: 40px;
-    color:  #0f0f99;
+    color:  #ffcc00;
     border-color: #fff;
     background-color: #292E37;
 }
@@ -49,7 +48,7 @@ img{
 
 
 p{
-  color:  #0f0f99;
+  color:  #ffcc00;
   background-color: #292E37;
   border-left:3px;
   Font-size: 20px;
@@ -61,7 +60,7 @@ p{
 }
 
 p.Kyle{
-  color:  #0f0f99;
+  color:  #ffcc00;
   background-color: #292E37;
   Font-size: 20px;
   width: 70%;
@@ -77,7 +76,7 @@ p.Kyle{
 .Name{
      font-family:FGB, sans-serif ;
     font-size: 40px;
-    color:  #0f0f99;
+    color:  #ffcc00;
     border-color: #fff;
     background-color: #292E37;
     margin-left: 80px;
