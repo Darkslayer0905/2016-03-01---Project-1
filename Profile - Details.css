@@ -37,6 +37,19 @@ img{
     margin-left: 80px;
 }
 
+img.connection{
+    max-width: 100px;
+    min-width: 50px;
+    padding:5px;
+    border:2px solid @super-color;
+    background-color: @gunmetal;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+
 p{
   color: @super-color;
   background-color: @gunmetal;
