@@ -38,8 +38,8 @@ img{
 }
 
 .Connection{
-    max-width: 100px;
-    min-width: 50px;
+    max-width: 50px;
+    min-width: 25px;
     padding:5px;
     border:2px solid @super-color;
     background-color: @gunmetal;
