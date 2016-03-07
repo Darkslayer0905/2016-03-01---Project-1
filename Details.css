@@ -11,6 +11,11 @@ div {
   opacity: 0.8;
 }
 
+
+p{
+    opacity: 0.8;
+}
+
 .Site{
     font-family:FGB, sans-serif ;
     font-size: 40px;
