@@ -11,6 +11,9 @@ div {
   opacity: 0.9;
 }
 
+#MenuBar{
+  position: fixed;
+}
 
 .Site{
     font-family:FGB, sans-serif ;
@@ -143,7 +146,7 @@ p.Kyle{
  float: right;
  position: fixed;
  align: right;
- left: 1000px;
+ left: 1500px;
 }
 
 
