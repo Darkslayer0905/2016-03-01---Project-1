@@ -20,6 +20,25 @@ div {
     position: Fixed;
 }
 
+#Main{
+  position: relative;
+  top: 5px
+  left: 20px;
+}
+
+#Choice1{
+  position: relative;
+  top: 5px
+  left: 20px;
+}
+
+#Choice2{
+  position: relative;
+  top: 5px
+  left: 20px;
+}
+
+
 button:hover {
   opacity: 0.7;
   color: black;
@@ -143,7 +162,7 @@ p.Kyle{
  float: right;
  position: fixed;
  align: right;
- left: 1200px;
+ left: 1300px;
 }
 
 
