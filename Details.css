@@ -144,5 +144,25 @@ p.Kyle{
 }
 
 #AssociatesTab{
-  vertical-align: top;
+  position: absolute;
+  top: 0px;
+  left: 50px;
+}
+
+#Mara{
+  position: relative;
+  top: 5px
+  left: 20px;
+}
+
+#Jan{
+  position: relative;
+  top: 5px
+  left: 20px;
+}
+
+#Dash{
+  position: relative;
+  top: 5px
+  left: 20px;
 }
