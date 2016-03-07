@@ -7,6 +7,10 @@ body {
     background-attachment: fixed;
 }
 
+div {
+  opacity: 0.5;
+}
+
 .Site{
     font-family:FGB, sans-serif ;
     font-size: 40px;
