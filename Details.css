@@ -57,7 +57,7 @@ img{
 
 p{
   opacity: 0.8;
-  text-indent: 50px;
+  text-indent: -1.5em;;
   color:  #ffcc00;
   background-color: #292E37;
   border-left:3px;
