@@ -93,6 +93,10 @@ p.Kyle{
     margin-bottom: 100px;
 }
 
+p.Name{
+  text-align: center;
+}
+
 .Partner{
   max-height: 150px;
   min-height: 10px;
