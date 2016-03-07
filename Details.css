@@ -17,7 +17,10 @@ div {
     color:  #ffcc00;
     border-color: #fff;
     background-color: #292E37;
-    position: Fixed;
+}
+
+.MenuBar{
+  position: fixed;
 }
 
 #Main{
