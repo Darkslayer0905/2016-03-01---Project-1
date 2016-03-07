@@ -11,16 +11,13 @@ div {
   opacity: 0.9;
 }
 
-#MenuBar{
-  position: fixed;
-}
-
 .Site{
     font-family:FGB, sans-serif ;
     font-size: 40px;
     color:  #ffcc00;
     border-color: #fff;
     background-color: #292E37;
+    position: Fixed;
 }
 
 button:hover {
@@ -146,7 +143,7 @@ p.Kyle{
  float: right;
  position: fixed;
  align: right;
- left: 1500px;
+ left: 1200px;
 }
 
 
