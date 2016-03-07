@@ -141,13 +141,9 @@ p.Kyle{
  border-color: #fff;
  background-color: #292E37;
  float: right;
+ position: fixed;
 }
 
-#AssociatesTab{
-  position: relative;
-  top: 0px;
-  left: 0px;
-}
 
 #Mara{
   position: relative;
