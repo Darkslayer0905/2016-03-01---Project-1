@@ -140,7 +140,9 @@ p.Kyle{
  color:  #ffcc00;
  border-color: #fff;
  background-color: #292E37;
- vertical-align: top;
- right-align;
  float: right;
+}
+
+#AssociatesTab{
+  vertical-align: top;
 }
