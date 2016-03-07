@@ -93,7 +93,7 @@ p.Kyle{
     margin-bottom: 100px;
 }
 
-p.Name{
+#Exploits{
   text-align: center;
 }
 
@@ -112,6 +112,14 @@ p.Name{
 }
 
 .Ship{
+  max-height: 750px;
+  min-height: 600px;
+  max-width: 900px;
+  min-width: 800px;
+  margin-bottom: 200px;
+}
+
+.Clash{
   max-height: 750px;
   min-height: 600px;
   max-width: 900px;
