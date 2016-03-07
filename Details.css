@@ -8,12 +8,9 @@ body {
 }
 
 div {
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
-img{
-    opacity: 1.0;
-}
 
 p{
     opacity: 0.8;
